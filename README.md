@@ -1,5 +1,5 @@
 # Fish-Vista
-This repo contains the evaluation code for the paper Fish-Vista: A Multi-Purpose Dataset for Understanding and Identification of Traits from Images
+This repo contains the benchmarking code for the paper Fish-Vista: A Multi-Purpose Dataset for Understanding and Identification of Traits from Images
 
 | [**🤗 Dataset**](https://huggingface.co/datasets/imageomics/fish-vista) | [**GitHub**](https://github.com/sajeedmehrab/Fish-Vista/tree/main) |
 
