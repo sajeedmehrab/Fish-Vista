@@ -23,13 +23,14 @@ Please refer to our [dataset card citation section](https://huggingface.co/datas
 
 **BibTeX:**
 ```bibtex
-@misc{<ref_code>,
-  author = {Kazi Sajeed Mehrab and M. Maruf and Arka Daw and Harish Babu Manogaran and Abhilash Neog and Mridul Khurana and Bahadir Altintas and Yasin Bakış and Elizabeth G Campolongo and Matthew J Thompson and Xiaojun Wang and Hilmar Lapp and Wei-Lun Chao and Paula M. Mabee and Henry L. Bart Jr. and Wasila Dahdul and Anuj Karpatne},
-  title = {Fish-Vista: A Multi-Purpose Dataset for Understanding \& Identification of Traits from Images},
-  year = {2024},
-  url = {https://huggingface.co/datasets/imageomics/fish-vista},
-  doi = {<doi once generated>},
-  publisher = {Hugging Face}
+@misc{mehrab2024fishvista,
+      title={Fish-Vista: A Multi-Purpose Dataset for Understanding & Identification of Traits from Images}, 
+      author={Kazi Sajeed Mehrab and M. Maruf and Arka Daw and Harish Babu Manogaran and Abhilash Neog and Mridul Khurana and Bahadir Altintas and Yasin Bakis and Elizabeth G Campolongo and Matthew J Thompson and Xiaojun Wang and Hilmar Lapp and Wei-Lun Chao and Paula M. Mabee and Henry L. Bart Jr. au2 and Wasila Dahdul and Anuj Karpatne},
+      year={2024},
+      eprint={2407.08027},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.08027}, 
 }
 
 ```
